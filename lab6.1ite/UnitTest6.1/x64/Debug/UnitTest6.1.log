@@ -1,0 +1,6 @@
+﻿  UnitTest6.1.cpp
+C:\Users\Lorn\source\repos\lab6.1ite\6.1ite.cpp(50,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/UnitTest6.1.cpp")
+  
+     Создается библиотека C:\Users\Lorn\source\repos\lab6.1ite\x64\Debug\UnitTest6.1.lib и объект C:\Users\Lorn\source\repos\lab6.1ite\x64\Debug\UnitTest6.1.exp
+  UnitTest6.1.vcxproj -> C:\Users\Lorn\source\repos\lab6.1ite\x64\Debug\UnitTest6.1.dll

@@ -1,0 +1,3 @@
+﻿  6.1ite.cpp
+C:\Users\Lorn\source\repos\lab6.1ite\6.1ite.cpp(50,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab6.1ite.vcxproj -> C:\Users\Lorn\source\repos\lab6.1ite\x64\Debug\lab6.1ite.exe
